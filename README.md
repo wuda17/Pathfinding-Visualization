@@ -1,5 +1,7 @@
 # Pathfinding-Visualization
 
-Python grid visualization of common pathfinding algorithms including: Breadth-first search, Djisktra's Algorithm and A* Pathfinding Algorithm.
+Python grid visualization of common pathfinding algorithms. 
 
-Pending Bug Fix for Breadth-First Search!
+##Features
+* Currently supporting: Breadth-first search, Djisktra's Algorithm and A* Pathfinding Algorithm.
+* Visualizing real-time pathfinding using Python GUI Pygame
